@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es"> 
+    <head>
+        <meta chaset="UTF-8">
+        <title>futbol</title>
+    </head>
+    <body>
+        <hgroup>
+            <h1></h1>
+            <h3></h3>
+        </hgroup>
+        <p></p>
+    
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es"> 
+    <head>
+        <meta chaset="UTF-8">
+        <title>BEISBOL</title>
+    </head>
+    <body>
+        <hgroup>
+            <h1>BEISBOL</h1>
+            <h3>COMO SE JUEGA</h3>
+        </hgroup>
+        <p>EL BEISBOL ES UN JUEGO EL QUE CONSISTE EN QUE LE PEGAS A UNA PELOTA PARA HACER UN HOME RUN</p>
+    
+    </body>
+</html>
